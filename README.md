@@ -1,5 +1,8 @@
 # Restful Booker Api Test
 
+This is just a test project to practice API testing, using this API:
+- https://restful-booker.herokuapp.com/apidoc/index.html
+
 ## Run tests:
     - mvn test
 
